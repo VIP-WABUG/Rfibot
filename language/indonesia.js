@@ -928,7 +928,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 Stalking 」 
 │○ !igstalk [username]
 │○ !ghstalk [username]
-╰❒ !ytstalk [channel]
+│○ !ytstalk [channel]
+╰❒ !mlstalk
 
 
 ╭─❒ 「 Search 」 
@@ -1760,15 +1761,14 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok keluar kidz>.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
-`
+Base : https://github.com/VIP-WABUG
+Recode : callmefii___`
 }
 exports.tos = (ownernomer) => {
     return `
@@ -1932,8 +1932,12 @@ exports.stalk = (prefix) =>{
 	return`╭─❒ 「 Stalking 」 
 │○ !igstalk [username]
 │○ !ghstalk [username]
-╰❒ !ytstalk [channel]
+│○ !ytstalk [channel]
+╰❒ !mlstalk
+
+
 `}
+
 
 exports.search = (prefix) =>{
 	return`╭─❒ 「 Search 」 
@@ -2430,14 +2434,7 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ callmefii___
 ╰❒ And All Support
 `
 }
